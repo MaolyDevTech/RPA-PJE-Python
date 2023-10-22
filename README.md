@@ -175,3 +175,43 @@ Bibliotecas Utilizadas:
      - Volte à lista de processos.
    - Volte à página inicial de pesquisa.
 4. **Fim**
+
+Com o fim de construir um raciocínio das solicitações da atividade com repeito as atividades a apresentar. A possível ações ou melhorias de projeto que podem ser implementadas rapidamente e com um investimento mínimo de recursos, mas que têm um impacto significativo em relação a negócios, desempenho e viabilidade ao longo do tempo.
+
+## ** "Quick Wins"** 
+
+** "Quick Wins" para o projeto de automação da consulta pública de processos jurídicos eletrônicos (PJE):**
+
+1. **Melhoria na Interface do Usuário (UI)**:
+   - Aprimorar a interface do usuário do script de automação para torná-la mais amigável e intuitiva para os associados. Isso reduzirá a necessidade de treinamento e permitirá que os usuários aproveitem ao máximo o sistema. (Melhoria na usabilidade e accessibilidade de produto)
+
+2. **Relatórios de Desempenho e Economia**:
+   - Implementar relatórios regulares que mostrem o desempenho do sistema de automação, incluindo o tempo economizado pelos associados e qualquer economia de recursos. Isso permite uma avaliação contínua do ROI(Retorno sobre o Investimento) do projeto. (Aplicação de estratégias BI) 
+
+Essas propostas visariam melhorar a eficiência, a usabilidade e a economia de recursos do projeto, proporcionando benefícios tangíveis de negócios e garantindo que o projeto seja viável ao longo do tempo. Elas podem ser implementadas sem um grande investimento de recursos e fornecerão resultados visíveis rapidamente.
+
+Agora bem, como proposta comercial, estabeleceria a necessidade de implementação, abordando o contexto de solução de problema a atividades repetitivas. Que melhorar a eficiência, a produtividade e reduzirá os custos associados à extração de informações em processos jurídicos eletrônicos.
+
+A automação reduz drasticamente os custos associados ao trabalho manual e ao tempo gasto na extração de informações. A produtividade aumenta, uma vez que a automação realiza tarefas com precisão e eficiência, permitindo que as equipes se concentre em atividades estratégicas e de maior valor.
+
+Quanto ao cálculo de custos pode ser listado e considerados: Desenvolvimento de Software, Hardware, Treinamento, Manutenção e Suporte, Custos Operacionais, Licenças de Software, Tempo de Desenvolvimento e Implementação, Testes e Validação de entre Outros Custos.
+
+Trás uma pesquisa pode chegar ao seguente calculo de totais, que você precisa quantificar cada um desses elementos
+
+**Custo Total = Custo de Desenvolvimento + Custo de Manutenção + Custos de Licenças de Software + Custos de Treinamento + Custos Operacionais - Benefícios Financeiros**
+
+Que podemos envolver em uma caroça de objetiva de rendimentos, expressada na seguente tabela para o maior entendimento. 
+
+**"Tabela de Produtividade, Desempenho, Estabilidade e Tempo vs. Operações Manuais"** 
+
+Que pode ser usada para comparar a eficiência e eficácia da automação RPA em relação às operações manuais. Ela fornece uma visão geral das melhorias que a automação pode trazer em termos de produtividade, desempenho, estabilidade e economia de tempo. Aqui está uma tabela simplificada para ilustrar esse conceito:
+
+| Critério                    | Operações Manuais | Automação RPA |
+|-----------------------------|-------------------|--------------|
+| **Produtividade**          | Baixa              | Alta         |
+| **Desempenho**             | Variável           | Consistente  |
+| **Estabilidade**           | Suscetível a erros | Confiável    |
+| **Tempo Necessário**       | Alto               | Baixo        |
+
+
+

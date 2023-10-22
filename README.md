@@ -90,6 +90,7 @@ Automatizar a extração de informações de processos jurídicos eletrônicos (
 3. **Configurações Incompletas:** Se o associado não forneceu as informações necessárias, como número da OAB e estado, o sistema deve notificar o associado e aguardar até que as informações estejam completas antes de iniciar o processo de extração.
 
 4. **Interrupção pelo Associado:** Se o associado interromper manualmente o processo de extração, o sistema deve permitir que o associado decida se deseja salvar os dados coletados até o momento.
+   <br>
 
 
 **Tecnologias Empregadas:**

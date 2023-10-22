@@ -178,7 +178,7 @@ Bibliotecas Utilizadas:
 
 Com o fim de construir um raciocínio das solicitações da atividade com repeito as atividades a apresentar. A possível ações ou melhorias de projeto que podem ser implementadas rapidamente e com um investimento mínimo de recursos, mas que têm um impacto significativo em relação a negócios, desempenho e viabilidade ao longo do tempo.
 
-## ** "Quick Wins"** 
+## "Quick Wins"
 
 ** "Quick Wins" para o projeto de automação da consulta pública de processos jurídicos eletrônicos (PJE):**
 

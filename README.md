@@ -91,7 +91,8 @@ Automatizar a extração de informações de processos jurídicos eletrônicos (
 
 4. **Interrupção pelo Associado:** Se o associado interromper manualmente o processo de extração, o sistema deve permitir que o associado decida se deseja salvar os dados coletados até o momento.
 
-   ![image](https://github.com/MaolyDevTech/RPA-PJE-Python/assets/144358009/ac4e44bc-92e5-4add-adaf-7c635d5bb909)
+![image](https://github.com/MaolyDevTech/RPA-PJE-Python/assets/144358009/7cc3c8cb-898f-4a6f-adb7-92062678e5c3)
+
 
    <br> <br>
 

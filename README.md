@@ -3,7 +3,28 @@
 **Caso de Uso: Automação para PJE - Consulta Pública do Brasil**
 
 **Objetivo:**
-Automatizar a extração de informações de processos jurídicos eletrônicos (PJE) a partir da Consulta Pública do Brasil, incluindo dados sobre o caso processual, data de distribuição e últimas movimentações, para um associado específico, e salvar essas informações em um arquivo Excel.
+Automatizar a extração de informações de processos jurídicos eletrônicos (PJE) a partir da Consulta Pública do Brasil, incluindo dados sobre o caso processual, data de distribuição e últimas movimentações, para um associado específico, e salvar essas informações em um arquivo Excel. O projeto visa simplificar e acelerar o processo de coleta de informações legais, economizando tempo e recursos dos associados.
+
+## Procedimento Operacional Padrão (SOP)
+
+### 1. Objetivo do SOP
+Automatizar a extração de informações de processos jurídicos eletrônicos.
+
+### 2. Passos do SOP
+- **Início**: O associado inicia o sistema automatizado.
+- **Acesso ao Site**: O sistema automatizado acessa o site da Consulta Pública do Brasil.
+- **Preenchimento dos Campos**: O sistema preenche automaticamente os campos de pesquisa com o número da OAB e seleciona o estado.
+- **Clique em "Pesquisar"**: O sistema clica no botão "Pesquisar" automaticamente.
+- **Verificação de Pesquisa**: O sistema verifica se a pesquisa foi bem-sucedida. Se não, registra um erro e encerra o processo.
+- **Para Cada Processo**:
+  - O sistema clica no link do processo.
+  - Cria uma nova planilha Excel, se necessário, com as colunas: "Número do Processo", "Data de Distribuição" e "Movimentações".
+  - Extrai automaticamente o número do processo e a data de distribuição.
+  - Extrai e armazena automaticamente as últimas movimentações.
+  - Salva a planilha Excel automaticamente.
+  - Conclui o processo de extração e salva as informações no arquivo Excel.
+- **Relatório de Conclusão**: O sistema gera um relatório de conclusão.
+- **Fim**: Fim do procedimento.
 
 **Ator Principal:**
 - Associado (Advogado, Estagiário de Direito, etc.)

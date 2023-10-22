@@ -180,7 +180,7 @@ Com o fim de construir um raciocínio das solicitações da atividade com repeit
 
 ## "Quick Wins"
 
-** "Quick Wins" para o projeto de automação da consulta pública de processos jurídicos eletrônicos (PJE):**
+**"Quick Wins" para o projeto de automação da consulta pública de processos jurídicos eletrônicos (PJE):**
 
 1. **Melhoria na Interface do Usuário (UI)**:
    - Aprimorar a interface do usuário do script de automação para torná-la mais amigável e intuitiva para os associados. Isso reduzirá a necessidade de treinamento e permitirá que os usuários aproveitem ao máximo o sistema. (Melhoria na usabilidade e accessibilidade de produto)

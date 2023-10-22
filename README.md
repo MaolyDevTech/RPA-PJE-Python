@@ -40,6 +40,8 @@ Automatizar a extração de informações de processos jurídicos eletrônicos (
   - O sistema salva a planilha Excel automaticamente.
 - O sistema conclui o processo de extração e salva as informações no arquivo Excel.
 - O sistema gera um relatório de conclusão.
+
+  
 **Fluxo Básico:**
 
 1. O associado inicia o sistema automatizado.
@@ -92,8 +94,9 @@ Automatizar a extração de informações de processos jurídicos eletrônicos (
 
 **Tecnologias Empregadas:**
 
-Linguagem: Python
+Linguagem: **Python**
 Bibliotecas Utilizadas:
+
 - Selenium: Para automatizar a interação com navegadores da web, com foco no Google Chrome.
 - OpenPyXL: Para automatizar a manipulação de planilhas do Excel.
 

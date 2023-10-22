@@ -95,6 +95,8 @@ Automatizar a extração de informações de processos jurídicos eletrônicos (
 **Tecnologias Empregadas:**
 
 Linguagem: **Python**
+
+
 Bibliotecas Utilizadas:
 
 - Selenium: Para automatizar a interação com navegadores da web, com foco no Google Chrome.

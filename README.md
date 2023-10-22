@@ -25,6 +25,11 @@ Automatizar a extração de informações de processos jurídicos eletrônicos (
 - O associado copia e cola os dados de cada processo manualmente na planilha Excel.
 - O associado salva a planilha Excel no computador local.
 
+  <img width="5056" alt="As is Diagrama" src="https://github.com/MaolyDevTech/RPA-PJE-Python/assets/144358009/dfa3a4dc-a505-43c2-b847-9909960158da">
+
+  <br><br>
+
+
 **Cenário To-Be (Situação Desejada):**
 
 - O associado inicia o processo de automação.
